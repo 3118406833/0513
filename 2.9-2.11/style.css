@@ -1,0 +1,49 @@
+.dataDiv {
+    width: 70%;
+    margin: auto;
+}
+
+ul li.u {
+    text-decoration: line-through;
+    background-color: rgb(203, 203, 212);
+    height: 30px;
+}
+
+.iptDiv {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(233, 182, 165);
+}
+
+#ipt {
+    height: 50px;
+    width: 70%;
+    margin: 20px;
+    outline-color: forestgreen;
+}
+
+.yes {
+    height: 45px;
+    width: 60px;
+    background-color: rgb(230, 226, 199);
+    border: solid khaki 2px;
+    color: rgb(85, 85, 151);
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+}
+
+.close {
+    float: right;
+    margin-right: 30%;
+}
+
+.ps {
+    position: absolute;
+    bottom: 50px;
+    height: 30px;
+    width: 50%;
+    background-color: tan;
+}
